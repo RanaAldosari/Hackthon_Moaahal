@@ -102,7 +102,7 @@ function About() {
 
         <div className="flex-1 text-right px-5">
           <p className="text-gray-700 leading-relaxed text-lg">
-            <span className="font-bold text-blue-700">مؤهل</span> هو تطبيق ذكي صُمم لمساعدتك على فهم وتحسين وضعك المالي. يقوم بتحليل بياناتك المالية لتقديم توصيات دقيقة ومخصصة حول المنتجات البنكية التي تناسبك، مع ميزة <span className="font-semibold">"نصّبب الذكي"</span> التي تتيح لك استثمار الفائض المالي بأمان وذكاء
+            <span className="font-bold text-blue-700">مؤهل</span> هو تطبيق ذكي صُمم لمساعدتك على فهم وتحسين وضعك المالي. يقوم بتحليل بياناتك المالية لتقديم توصيات دقيقة ومخصصة حول المنتجات البنكية التي تناسبك، مع ميزة <span className="font-semibold">"استثماري الذكي"</span> التي تتيح لك استثمار الفائض المالي بأمان وذكاء
           </p>
         </div>
       </div>
@@ -122,7 +122,7 @@ function About() {
         />
         <FeatureCard
           icon={<FaArrowTrendUp />}
-          title="نصّبب الذكي"
+          title="استثماري الذكي"
           description="استكشاف الفائض المالي لديك واقتراح طرق استثمار مخصصة بأقل مخاطرة."
         />
         <FeatureCard

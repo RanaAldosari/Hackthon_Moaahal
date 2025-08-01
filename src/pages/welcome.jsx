@@ -89,7 +89,7 @@ function Welcome() {
           </h2>
           <p className="text-gray-700 leading-relaxed text-sm sm:text-base">
             نظام ذكي يساعدك على معرفة مدى أهليتك للحصول على المنتجات البنكية مع توصيات مخصصة وميزة
-            <span className="font-semibold"> " نصّبب الذكي" </span>
+            <span className="font-semibold"> " استثماري الذكي" </span>
             لاستثمار فائضك المالي
           </p>
 

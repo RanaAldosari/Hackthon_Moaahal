@@ -26,7 +26,7 @@ function Footer() {
             <h2 className="text-xl font-bold mb-2">المنتجات والخدمات</h2>
             <ul className="space-y-1 text-gray-800">
               <li className='hover:underline cursor-pointer'>تقييم شامل</li>
-              <li className='hover:underline cursor-pointer'>نصبب الذكي</li>
+              <li className='hover:underline cursor-pointer'>استثماري الذكي</li>
               <li className='hover:underline cursor-pointer'>توصيات فورية</li>
             </ul>
           </div>

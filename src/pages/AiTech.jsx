@@ -205,10 +205,10 @@ function AiTech() {
       {/* Navbar end */}
 <div className="mb-6 p-10" data-aos="fade-right">
         <h1 className="text-3xl text-center font-bold text-blue-900 flex items-center justify-center gap-2">
-          <FaRobot /> نصبب الذكي
+          <FaRobot /> استثماري الذكي
         </h1>
         <p className="text-gray-700 text-center mt-2">
-          "نصبب الذكي" هو نظام ذكي يحلل وضعك المالي بدقة من الدخل إلى الفائض ومن خلال هذا التحليل، يتم تحديد أفضل خيارات الاستثمار المناسبة لك
+          "استثماري الذكي" هو نظام ذكي يحلل وضعك المالي بدقة من الدخل إلى الفائض ومن خلال هذا التحليل، يتم تحديد أفضل خيارات الاستثمار المناسبة لك
         </p>
       </div>
 
