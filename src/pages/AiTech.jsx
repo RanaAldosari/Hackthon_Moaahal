@@ -116,7 +116,7 @@ function AiTech() {
       return;
     }
 
-    fetch("http://localhost:10000/predict_full", {
+    fetch("https://hackthone-model-1.onrender.com/docs#/default/predict_full_predict_full_post", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: payload
